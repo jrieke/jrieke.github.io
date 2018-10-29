@@ -1,6 +1,6 @@
 title: Johannes Rieke
 logo: 
-description: Personal website of Johannes Rieke.
-show_downloads: true
+description: Master student in computational neuroscience at Technical University Berlin & Bernstein Center for Computational Neuroscience Berlin. Interested in deep learning & neuroscience.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
