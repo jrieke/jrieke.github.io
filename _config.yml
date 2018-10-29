@@ -1,28 +1,43 @@
 
-remote_theme: jamigibbs/phantom
+remote_theme: nickbalestra/kactus
 
-
-title: "Johannes Rieke"
-email: 'johannes.rieke@gmail.com'
+name: "Johannes Rieke"
 description: "Master student in computational neuroscience at Technical University Berlin & Bernstein Center for Computational Neuroscience Berlin. Interested in deep learning & neuroscience."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://jrieke.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 'jrieke'
-github_username: 'jrieke'
-medium_username: 'jrieke'
 
-# Build settings
+aboutPage: true
+
 markdown: kramdown
-# theme: phantom # Uncomment once published to RubyGems
-plugins:
-  - jekyll-paginate
+highlighter: rouge
 
-### Phantom settings
-paginate: 10
-footer_text: '© 2018 Johannes Rieke'
-admin_name: 'Johannes Rieke'
-google_analytics: "UA-9999999-99" # Update with your own tracking ID
-enable_contact: false
+plugins: [jekyll-paginate]
+paginate: 20
+domain_name: 'http://jrieke.github.io'
+google_analytics: 'UA-XXXXXXXX-X'
+disqus: false
 
-#### Phantom Navigation menu
-enable_nav: false
+# Details for the RSS feed generator
+url:            'http://jrieke.github.io'
+author:         'Johannes Rieke'
+authorTwitter:  'jrieke'
+
+permalink:       /:year/:title/
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post
