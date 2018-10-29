@@ -1,2 +1,3 @@
-name: Johannes Rieke
-theme: jekyll-theme-cayman
+title: Johannes Rieke
+theme: jekyll-theme-minimal
+show_downloads: false
