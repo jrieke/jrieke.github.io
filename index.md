@@ -10,19 +10,19 @@ Download my CV
 
 Master student in computational neuroscience at Technical University Berlin & Bernstein Center for Computational Neuroscience Berlin. Interested in deep learning, neuroscience, and how intelligence works.
 
-# Feedback connections for deep neural networks
+## Feedback connections for deep neural networks
 
 with Matthew Larkum
 
 Coming soon.
 
-# Graph Convolutional Networks
+## Graph Convolutional Networks
 
 with Thomas Kipf
 
 Coming soon.
 
-# Visualizing CNNs for Alzheimer's Disease
+## Visualizing CNNs for Alzheimer's Disease
 
 with Kerstin Ritter and Fabian Eitel (MLCN 2018)
 
@@ -32,7 +32,7 @@ Deep machine learning models have recently gained traction in medicine, e.g. for
 
 [Paper](https://arxiv.org/abs/1808.02874) | [Code](https://github.com/jrieke/cnn-interpretability) | [Slides from MLCN 2018](https://drive.google.com/file/d/1EKHvlWq4_-NC7HQPAbZc_ZaeNZMTQwgh/view)
 
-# Object detection tutorial
+## Object detection tutorial
 
 ![](Untitled-c66372a2-9132-44f0-a3f6-3d743475a38e.png)
 
