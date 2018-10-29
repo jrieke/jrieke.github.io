@@ -1,7 +1,13 @@
 name: Johannes Rieke
 title: Johannes Rieke
-logo: /profile.png
 description: Master student in computational neuroscience at Technical University Berlin & Bernstein Center for Computational Neuroscience Berlin. Interested in deep learning & neuroscience.
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-minimal
+theme: kactus
+
+markdown: kramdown
+highlighter: rouge
+
+plugins: [jekyll-paginate]
+paginate: 20
+disqus: false
