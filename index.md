@@ -1,16 +1,18 @@
-## Feedback connections for deep neural networks
+# Feedback connections for deep neural networks
 
 with Matthew Larkum
 
-Coming soon.
+In the neocortex, top-down feedback connections play a critical role for computation. In this project, we aim to integrate such feedback connections into deep neural networks for image classification.
 
-## Graph Convolutional Networks
+
+# Scalable graph convolutional networks
 
 with Thomas Kipf
 
-Coming soon.
+Graph convolutional networks are a recent class of deep neural networks which operate on top of graphs. In this project, we aim to improve a specific class of graph convolutional networks and make it scalable to large knowledge graphs.
 
-## Visualizing CNNs for Alzheimer's Disease
+
+# Visualizing CNNs for Alzheimer's disease
 
 with Kerstin Ritter and Fabian Eitel (MLCN 2018)
 
@@ -18,12 +20,13 @@ with Kerstin Ritter and Fabian Eitel (MLCN 2018)
 
 Deep machine learning models have recently gained traction in medicine, e.g. for diagnosing diseases based on medical images. Unfortunately, these models are quite hard to interpret and verify, which is obviously a necessity in medical decision making. In this work, we train a convolutional neural network to classify Alzheimer's Disease based on MRI images of the brain, and apply some visualization methods that can explain its classification decisions.
 
-[Paper](https://arxiv.org/abs/1808.02874) ○ [Code](https://github.com/jrieke/cnn-interpretability) ○ [Slides from MLCN 2018](https://drive.google.com/file/d/1EKHvlWq4_-NC7HQPAbZc_ZaeNZMTQwgh/view)
+[Paper](https://arxiv.org/abs/1808.02874) • [Code](https://github.com/jrieke/cnn-interpretability) • [Slides from MLCN 2018](https://drive.google.com/file/d/1EKHvlWq4_-NC7HQPAbZc_ZaeNZMTQwgh/view)
 
-## Object detection tutorial
+
+# Object detection tutorial
 
 ![](Untitled-c66372a2-9132-44f0-a3f6-3d743475a38e.png)
 
 I wrote a tutorial for simple object detection with neural networks (in keras). While the approach is fairly limited and probably not usable for real-world applications, it should give a good overview of how to tackle the problem of object detection in a very simplified setting.  
 
-[Blog post](https://towardsdatascience.com/object-detection-with-neural-networks-a4e2c46b4491) ○ [Code](https://github.com/jrieke/shape-detection)
+[Blog post](https://towardsdatascience.com/object-detection-with-neural-networks-a4e2c46b4491) • [Code](https://github.com/jrieke/shape-detection)
