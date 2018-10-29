@@ -13,23 +13,20 @@
 </head>
 <body>
 
-  <!--{% include navigation.html %}-->
-
-  <!--{% if page.profile %}
-    {% include header.html %}
-  {% endif %}-->
 
   <div class="profile">
     <section id="wrapper">
         <header id="header">
-            <img id="avatar" class="2x" src="{{ "/" | relative_url  }}assets/images/avatar.png"/>
+            <img id="avatar" class="2x" src="{{ "/" | relative_url }}assets/images/avatar.png"/>
             <h1>{{ site.author }}</h1>
             <h2>{{ site.description }}</h2>
+            <p>E-Mail: <a href="mailto:johannes.rieke@gmail.com">johannes.rieke@gmail.com</a> • Twitter: <a href="https://twitter.com/jrieke">jrieke</a>
+              <br><a href="{{ "/" | relative_url }}CV.pdf">Download my CV</a></p>
         </header>
     </section>
-</div>
+  </div>
 
-  <section id="wrapper" class="{% if page.profile %}home{% endif %}">
+  <section id="wrapper" class="home">
     {{ content }}
   </section>
 
