@@ -1,3 +1,7 @@
+---
+profile: true
+---
+
 # Feedback connections for deep neural networks
 
 with Matthew Larkum
