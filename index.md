@@ -1,15 +1,3 @@
-# Johannes Rieke
-
-Email: johannes.rieke@gmail.com
-
-Twitter: [jrieke](https://twitter.com/jrieke)
-
-Github: [jrieke](https://github.com/jrieke)
-
-Download my CV
-
-Master student in computational neuroscience at Technical University Berlin & Bernstein Center for Computational Neuroscience Berlin. Interested in deep learning, neuroscience, and how intelligence works.
-
 ## Feedback connections for deep neural networks
 
 with Matthew Larkum
