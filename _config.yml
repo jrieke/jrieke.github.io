@@ -13,7 +13,7 @@ highlighter: rouge
 plugins: [jekyll-paginate]
 paginate: 50
 domain_name: 'http://jrieke.github.io'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-128373902-1'
 disqus: false
 
 # Details for the RSS feed generator
