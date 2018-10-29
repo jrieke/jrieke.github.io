@@ -1,13 +1,28 @@
-name: Johannes Rieke
-title: Johannes Rieke
-description: Master student in computational neuroscience at Technical University Berlin & Bernstein Center for Computational Neuroscience Berlin. Interested in deep learning & neuroscience.
-show_downloads: false
-google_analytics:
-remote-theme: kactus
 
+remote-theme: phantom
+
+
+title: "Johannes Rieke"
+email: 'johannes.rieke@gmail.com'
+description: "Master student in computational neuroscience at Technical University Berlin & Bernstein Center for Computational Neuroscience Berlin. Interested in deep learning & neuroscience."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://jrieke.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 'jrieke'
+github_username: 'jrieke'
+medium_username: 'jrieke'
+
+# Build settings
 markdown: kramdown
-highlighter: rouge
+# theme: phantom # Uncomment once published to RubyGems
+plugins:
+  - jekyll-paginate
 
-plugins: [jekyll-paginate]
-paginate: 20
-disqus: false
+### Phantom settings
+paginate: 10
+footer_text: '© 2018 Johannes Rieke'
+admin_name: 'Johannes Rieke'
+google_analytics: "UA-9999999-99" # Update with your own tracking ID
+enable_contact: false
+
+#### Phantom Navigation menu
+enable_nav: false
