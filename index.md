@@ -1,20 +1,40 @@
-# Feedback connections for deep neural networks
+# Developing tools against Corona
 
-with Matthew Larkum
+Together with some friends, I took part in the WirVsVirus hackathon by the German government to develop software against Corona. We built an API that serves local information and addresses (hotlines, websites, test sites, ...), which can be integrated into other apps and websites. E.g., a tracing app could use our API to lead a user to their nearest test site in case of an infection risk. Our solution got accepted into the Solution Enabler program that followed the hackathon and is currently tested by some other projects.
 
-In the neocortex, top-down feedback connections play a critical role for computation. In this project, we aim to integrate such feedback connections into deep neural networks for image classification.
+[Code and Docs](https://github.com/cotect/covid-local-api)
+
+
+# Master thesis: Combining evolution and learning in neural networks
+
+*with Benjamin Grewe, João Sacramento, Maria Cervera (ETH Zürich, Institute of Neuroinformatics)*
+
+In my master thesis, I investigated how evolution and learning interact in neural networks. This work is inspired by biological evolution, which shapes the architecture and learning processes in the brain. To this end, I evolved the architecture of networks using a simple evolutionary algorithm (inspired by [weight agnostic neural networks](https://weightagnostic.github.io/)) and trained the weights with different biologically plausible learning algorithms. 
+
+[Thesis](https://github.com/jrieke/evolution-learning/raw/master/master-thesis-johannes-rieke-final.pdf) • [Code](https://github.com/jrieke/evolution-learning)
+
+
+# Top-down feedback connections for deep neural networks
+
+*with Matthew Larkum (Charité Berlin)*
+
+In this research project, I integrated feedback connections into deep neural networks, inspired by the processing of top-down signals in the brain. I tested these networks on image classification with MNIST and found that feedback connections can improve classification performance and enable recovery of missing information.
+
+[Report](https://github.com/jrieke/feedback-nns/raw/master/report.pdf) • [Code](https://github.com/jrieke/feedback-nns)
 
 
 # Scalable graph convolutional networks
 
-with Thomas Kipf
+*with Thomas Kipf (UvA)*
 
-Graph convolutional networks are a recent class of deep neural networks which operate on top of graphs. In this project, we aim to improve a specific class of graph convolutional networks and make it scalable to large knowledge graphs.
+Graph convolutional networks (GCNs) are a recent class of deep neural networks which operate on top of graphs. In this research project at the University of Amsterdam, I tried to improve relational GCNs and make them scalable to large knowledge graphs, by performing sampling and batching during training. Unfortunately, I couldn't reproduce the results of the exsting model. 
+
+[Report](https://github.com/jrieke/sampled-rgcn/raw/master/report.pdf) • [Code](https://github.com/jrieke/sampled-rgcn)
 
 
 # Visualizing CNNs for Alzheimer's disease
 
-with Kerstin Ritter and Fabian Eitel (MLCN 2018)
+*with Kerstin Ritter and Fabian Eitel (BCAN)*
 
 ![](Untitled-3f73dc03-9da7-4eb9-9d9d-d477841acc87.png)
 
