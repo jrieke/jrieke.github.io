@@ -1,5 +1,7 @@
 # Developing tools against Corona
 
+![](assets/images/local-api.png)
+
 Together with some friends, I took part in the WirVsVirus hackathon by the German government to develop software against Corona. We built an API that serves local information and addresses (hotlines, websites, test sites, ...), which can be integrated into other apps and websites. E.g., a tracing app could use our API to lead a user to their nearest test site in case of an infection risk. Our solution got accepted into the Solution Enabler program that followed the hackathon and is currently tested by some other projects.
 
 [Code and Docs](https://github.com/cotect/covid-local-api)
@@ -8,6 +10,8 @@ Together with some friends, I took part in the WirVsVirus hackathon by the Germa
 # Master thesis: Combining evolution and learning in neural networks
 
 *with Benjamin Grewe, João Sacramento, Maria Cervera (ETH Zürich, Institute of Neuroinformatics)*
+
+![](assets/images/master-thesis.png)
 
 In my master thesis, I investigated how evolution and learning interact in neural networks. This work is inspired by biological evolution, which shapes the architecture and learning processes in the brain. To this end, I evolved the architecture of networks using a simple evolutionary algorithm (inspired by [weight agnostic neural networks](https://weightagnostic.github.io/)) and trained the weights with different biologically plausible learning algorithms. 
 
@@ -36,7 +40,7 @@ Graph convolutional networks (GCNs) are a recent class of deep neural networks w
 
 *with Kerstin Ritter and Fabian Eitel (BCAN)*
 
-![](Untitled-3f73dc03-9da7-4eb9-9d9d-d477841acc87.png)
+![](assets/images/mri-alzheimer.png)
 
 Deep machine learning models have recently gained traction in medicine, e.g. for diagnosing diseases based on medical images. Unfortunately, these models are quite hard to interpret and verify, which is obviously a necessity in medical decision making. In this work, we train a convolutional neural network to classify Alzheimer's Disease based on MRI images of the brain, and apply some visualization methods that can explain its classification decisions.
 
@@ -45,7 +49,7 @@ Deep machine learning models have recently gained traction in medicine, e.g. for
 
 # Object detection tutorial
 
-![](Untitled-c66372a2-9132-44f0-a3f6-3d743475a38e.png)
+![](assets/images/object-detection.png)
 
 I wrote a tutorial for simple object detection with neural networks (in keras). While the approach is fairly limited and probably not usable for real-world applications, it should give a good overview of how to tackle the problem of object detection in a very simplified setting.  
 
