@@ -1,3 +1,12 @@
+# List of ML startups in Berlin
+
+![](https://github.com/jrieke/awesome-machine-learning-startups-berlin/raw/master/berlin.png)
+
+I made a list on Github of all startups in Berlin that deal with machine learning and artificial intelligence. It also shows some metadata from LinkedIn (employees, openings, funding). Check it out!
+
+[List on Github](https://github.com/jrieke/awesome-machine-learning-startups-berlin)
+
+
 # Developing tools against Corona
 
 ![](assets/images/local-api.png)
