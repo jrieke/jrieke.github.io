@@ -1,4 +1,4 @@
-# List of ML startups in Berlin
+# List of machine learning startups in Berlin
 
 ![](https://github.com/jrieke/awesome-machine-learning-startups-berlin/raw/master/berlin.png)
 
