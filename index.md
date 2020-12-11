@@ -1,3 +1,12 @@
+# Code generator for machine learning
+
+![](https://github.com/jrieke/traingenerator/raw/main/docs/assets/demo.gif)
+
+I'm building a web app to generate template code for machine learning. It supports PyTorch & scikit-learn, generates code for preprocessing/model setup/training/visualizations, and exports to .py file, Jupyter notebook, or Google Colab. It's currently in closed beta, sign up [here](https://mlcodegen.landen.co/).
+
+[Demo](https://mlcodegen.landen.co/) • [Code](https://github.com/jrieke/traingenerator)
+
+
 # List of machine learning startups in Berlin
 
 ![](https://github.com/jrieke/awesome-machine-learning-startups-berlin/raw/master/berlin.png)
