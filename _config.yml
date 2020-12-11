@@ -1,7 +1,7 @@
 remote_theme: nickbalestra/kactus
 
 name: "Johannes Rieke"
-description: "Machine learning engineer"
+description: "Machine Learning Engineer"
 meta_description: "Johannes Rieke's website"
 
 aboutPage: true
@@ -11,12 +11,12 @@ highlighter: rouge
 
 plugins: [jekyll-paginate]
 paginate: 50
-domain_name: "http://jrieke.github.io"
+domain_name: "https://www.jrieke.com"
 google_analytics: "UA-128373902-1"
 disqus: false
 
 # Details for the RSS feed generator
-url: "http://jrieke.github.io"
+url: "https://www.jrieke.com"
 author: "Johannes Rieke"
 authorTwitter: "jrieke"
 
