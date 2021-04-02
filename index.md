@@ -1,10 +1,22 @@
-# Code generator for machine learning
+# New job at Streamlit
+
+I recently started working as a product engineer at [Streamlit](https://streamlit.io/) and am super excited about this new role!!! 🎈
+
+
+# Github 2020
+
+Want to look back at your coding activity in 2020? I built a small web app that shows you some stats about your Github activity from last year and let's your share directly on Twitter. Try it out on the link below!
+
+[Live version](https://gh2020.jrieke.com/) • [Code](https://github.com/jrieke/year-on-github)
+
+
+# Traingenerator
 
 ![](assets/images/code-generator.png)
 
-I'm building a web app to generate template code for machine learning. It supports PyTorch & scikit-learn, generates code for preprocessing/model setup/training/visualizations, and exports to .py file, Jupyter notebook, or Google Colab. It's currently in closed beta, sign up [here](https://mlcodegen.landen.co/).
+I built a web app to generate template code for machine learning. It supports PyTorch & scikit-learn, generates code for preprocessing/model setup/training/visualizations, and exports to .py, Jupyter notebook, or Google Colab. The app is built with [Streamlit](https://streamlit.io/) and entirely free! Check it out and [leave a star](https://github.com/jrieke/traingenerator) if you like it :)
 
-[Demo](https://mlcodegen.landen.co/) • [Code](https://github.com/jrieke/traingenerator)
+[Live version](https://traingenerator.jrieke.com/) • [Code](https://github.com/jrieke/traingenerator)
 
 
 # List of machine learning startups in Berlin
