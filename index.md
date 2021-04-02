@@ -3,14 +3,14 @@
 I recently started working as a product engineer at [Streamlit](https://streamlit.io/) and am super excited about this new role!!! 🎈
 
 
-# Github 2020
+# Your year on Github 2020
 
 Want to look back at your coding activity in 2020? I built a small web app that shows you some stats about your Github activity from last year and let's your share directly on Twitter. Try it out on the link below!
 
 [Live version](https://gh2020.jrieke.com/) • [Code](https://github.com/jrieke/year-on-github)
 
 
-# Traingenerator
+# Traingenerator: Generate template code for ML
 
 ![](assets/images/code-generator.png)
 
