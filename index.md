@@ -1,5 +1,7 @@
 # New job at Streamlit
 
+![](https://streamlit.io/sharing-image-facebook.jpg)
+
 I recently started working as a product engineer at [Streamlit](https://streamlit.io/) and am super excited about this new role!!! 🎈
 
 
