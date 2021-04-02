@@ -1,6 +1,6 @@
 # New job at Streamlit
 
-![](streamlit.png)
+![](assets/images/streamlit.png)
 
 I recently started working as a product engineer at [Streamlit](https://streamlit.io/) and am super excited about this new role!!! 🎈
 
