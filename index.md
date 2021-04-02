@@ -5,6 +5,8 @@ I recently started working as a product engineer at [Streamlit](https://streamli
 
 # Your year on Github 2020
 
+![](assets/images/github2020.png)
+
 Want to look back at your coding activity in 2020? I built a small web app that shows you some stats about your Github activity from last year and let's your share directly on Twitter. Try it out on the link below!
 
 [Live version](https://gh2020.jrieke.com/) • [Code](https://github.com/jrieke/year-on-github)
